@@ -44,6 +44,9 @@ To get started with this project, follow these steps:
 
 Adjust hyperparameters, network architecture, and other settings to fine-tune the agent's performance.
 
+## Result
+
+https://github.com/pongthang/Atari-breakout-using-DDQN-RL_agent/assets/57061570/62cfea31-e780-4345-b99b-e42fac297234
 
 
 Enjoy training your RL agent and watching it master Atari Breakout! 🎮🕹️
